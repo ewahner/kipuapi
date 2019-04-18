@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kipu.KipuApi", "Kipu.KipuApi\Kipu.KipuApi.csproj", "{D8EE1330-479A-4999-97AE-9132E7F2CB73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8EE1330-479A-4999-97AE-9132E7F2CB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EE1330-479A-4999-97AE-9132E7F2CB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EE1330-479A-4999-97AE-9132E7F2CB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EE1330-479A-4999-97AE-9132E7F2CB73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DDF7A99-4832-4825-A33A-75E8CE0BAC72}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://leercm.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Kipu.KipuApi\\Kipu.KipuApi.csproj
+		SccProjectName1 = Kipu.KipuApi
+		SccLocalPath1 = Kipu.KipuApi
+	EndGlobalSection
+EndGlobal

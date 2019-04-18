@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projects\\eric@git\\kipuapi\\Kipu.KipuApi\\Kipu.KipuApi.csproj": {}
+  },
+  "projects": {
+    "D:\\projects\\eric@git\\kipuapi\\Kipu.KipuApi\\Kipu.KipuApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\eric@git\\kipuapi\\Kipu.KipuApi\\Kipu.KipuApi.csproj",
+        "projectName": "Kipu.KipuApi",
+        "projectPath": "D:\\projects\\eric@git\\kipuapi\\Kipu.KipuApi\\Kipu.KipuApi.csproj",
+        "packagesPath": "C:\\Users\\ewahn\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\eric@git\\kipuapi\\Kipu.KipuApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ewahn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.myget.org/F/azure-appservice/api/v2": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+D:\projects\eric@leercm\Applications\Kipu.KipuApi\Kipu.KipuApi\bin\Debug\netstandard2.0\Kipu.KipuApi.deps.json
+D:\projects\eric@leercm\Applications\Kipu.KipuApi\Kipu.KipuApi\bin\Debug\netstandard2.0\Kipu.KipuApi.dll
+D:\projects\eric@leercm\Applications\Kipu.KipuApi\Kipu.KipuApi\obj\Debug\netstandard2.0\Kipu.KipuApi.csproj.CoreCompileInputs.cache
+D:\projects\eric@leercm\Applications\Kipu.KipuApi\Kipu.KipuApi\obj\Debug\netstandard2.0\Kipu.KipuApi.AssemblyInfoInputs.cache
+D:\projects\eric@leercm\Applications\Kipu.KipuApi\Kipu.KipuApi\obj\Debug\netstandard2.0\Kipu.KipuApi.AssemblyInfo.cs
+D:\projects\eric@leercm\Applications\Kipu.KipuApi\Kipu.KipuApi\bin\Debug\netstandard2.0\Kipu.KipuApi.pdb
+D:\projects\eric@leercm\Applications\Kipu.KipuApi\Kipu.KipuApi\obj\Debug\netstandard2.0\Kipu.KipuApi.dll
+D:\projects\eric@leercm\Applications\Kipu.KipuApi\Kipu.KipuApi\obj\Debug\netstandard2.0\Kipu.KipuApi.pdb
